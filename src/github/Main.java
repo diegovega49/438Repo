@@ -7,7 +7,7 @@ public class Main {
 				"Apples",
 				"Bananas",
 				"Corn",
-				"Dog Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
@@ -15,6 +15,11 @@ public class Main {
 		};
 		
 		for (String item: shopList) {
+			System.out.println(item);
+		}	
+				System.out.println("My Shopping List");
+             System.out.println();
+             for (String item: shopList) {
 			System.out.println(item);
 		}	
        }
