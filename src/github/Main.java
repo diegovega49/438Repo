@@ -7,7 +7,7 @@ public class Main {
 				"Apples",
 				"Bananas",
 				"Corn",
-				"Dog Food",
+				"More Dog Food",
 				"Cereal", 
 				"Bread", 
 				"Eggs",
